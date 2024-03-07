@@ -16,9 +16,7 @@ https://github.com/RainbowXRay/Game-Store/assets/83498405/cda1394d-24ab-4895-a30
 
 https://github.com/RainbowXRay/Game-Store/assets/83498405/f9c62500-0b15-4949-aa10-eb5f0e94a8f7  
 
-## ⚡ **Game Cards** ⚡ 
 
-https://github.com/RainbowXRay/Game-Store/assets/83498405/0fc8b130-f85a-49c7-9b93-71aa0cf74f3a  
 
 <br> <br>
 ![Screenshot (438)](https://github.com/RainbowXRay/Game-Store/assets/83498405/a8fcf6cf-8746-4aff-b63d-02d6f417de12) 
@@ -26,6 +24,12 @@ https://github.com/RainbowXRay/Game-Store/assets/83498405/0fc8b130-f85a-49c7-9b9
 <br><br>
 ![Screenshot (439)](https://github.com/RainbowXRay/Game-Store/assets/83498405/539bd729-429f-4486-97f1-ab683913771d)  
 <br> <br>
+
+## ⚡ **Game Cards** ⚡ 
+
+https://github.com/RainbowXRay/Game-Store/assets/83498405/0fc8b130-f85a-49c7-9b93-71aa0cf74f3a  
+
+
 ![Screenshot (440)](https://github.com/RainbowXRay/Game-Store/assets/83498405/8ac6ee6e-e143-4495-8782-556e6fcfdd9d)  
 <br> <br>
 ![Screenshot (441)](https://github.com/RainbowXRay/Game-Store/assets/83498405/34805e03-b58e-4b68-8946-337815c58130)  
