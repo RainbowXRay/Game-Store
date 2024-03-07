@@ -5,8 +5,8 @@ An attractive e-commerce store imitating game store, built using react. This web
 
 ## Project Gallery 
 
-![Screenshot (436)](https://github.com/RainbowXRay/Game-Store/assets/83498405/cd8bfedf-d7e7-46ee-885e-1a70ff13a997)  &nbsp  
-![Screenshot (437)](https://github.com/RainbowXRay/Game-Store/assets/83498405/b36b340b-6aaa-4361-acc2-718a3ae14e59)  &nbsp
+![Screenshot (436)](https://github.com/RainbowXRay/Game-Store/assets/83498405/cd8bfedf-d7e7-46ee-885e-1a70ff13a997)  <br>
+![Screenshot (437)](https://github.com/RainbowXRay/Game-Store/assets/83498405/b36b340b-6aaa-4361-acc2-718a3ae14e59)  <br>
 
 **Home Page Transition**
 
